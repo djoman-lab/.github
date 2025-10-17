@@ -9,8 +9,8 @@
 **DJOMAN LAB** est une organisation dirigée par **Roméo DJOMAN**,  
 **Ingénieur Full-Stack & Biostatisticien**, spécialisée dans le développement de solutions web et l’analyse de données biologiques.
 
-Nous combinons la rigueur scientifique à la créativité du développement logiciel pour concevoir :
-- 🌐 **Applications web modernes** (Java · Spring Boot · Angular · Vite.js)
+Je combine la rigueur scientifique à la créativité du développement logiciel pour concevoir :
+- 🌐 **Applications web modernes** (Java · Spring Boot · Angular · JavaScript)
 - 🧬 **Outils bio-informatiques et pipelines d’analyse** (R · Python · omics data)
 - 📊 **Modèles statistiques & visualisations interactives**
 - ☁️ **Déploiement cloud et automatisation CI/CD**
@@ -21,7 +21,7 @@ Nous combinons la rigueur scientifique à la créativité du développement logi
 
 | Domaine | Objectif | Stack principale |
 |----------|-----------|------------------|
-| **Développement Full-Stack** | Créer des interfaces performantes et robustes | Java · Spring Boot · Angular · Vite.js |
+| **Développement Full-Stack** | Créer des interfaces performantes et robustes | Java · Spring Boot · Angular · JavaScript |
 | **Bio-informatique** | Automatiser et analyser les données omiques | R · Python · Bioconductor |
 | **Biostatistique** | Explorer et modéliser des données biologiques complexes | R · tidyverse · scikit-learn |
 | **Data Visualization** | Rendre les résultats clairs et interactifs | Plotly · D3.js · Shiny |
@@ -32,7 +32,7 @@ Nous combinons la rigueur scientifique à la créativité du développement logi
 
 | Projet | Description | Langages |
 |--------|--------------|-----------|
-| [Portfolio](https://djoman-lab.github.io/portfolio) | Présentation interactive des projets et compétences | Vite.js, CSS, JS |
+| [Portfolio](https://djoman-lab.github.io/portfolio) | Présentation interactive des projets et compétences | JavaScript, CSS, JS |
 | [Bioinformatics Pipelines](https://github.com/djoman-lab/bioinformatics-pipelines) | Scripts R/Python pour analyses omiques | R, Python |
 | [Statistical Models](https://github.com/djoman-lab/statistical-models) | Analyses statistiques et modèles de prédiction | R, Jupyter |
 | [Data Visualization Tools](https://github.com/djoman-lab/data-visualization-tools) | Outils interactifs pour données biologiques | JS, Plotly |
