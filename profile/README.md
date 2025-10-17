@@ -48,7 +48,7 @@ l’analyse de données biologiques et la conception d’outils bio-informatique
 
 | 🔗 Projet | 💡 Description | 🧰 Stack |
 |------------|----------------|----------|
-| [**Portfolio**](https://djoman-lab.github.io/portfolio) | Présentation interactive du profil et des projets | Vite.js, JS, CSS |
+| [**Portfolio**](https://djoman-lab.github.io/portfolio) | Présentation interactive du profil et des projets | HTML, CSS, JS |
 | [**Bioinformatics Pipelines**](https://github.com/djoman-lab/bioinformatics-pipelines) | Pipelines R/Python pour analyses omiques | R, Python |
 | [**Statistical Models**](https://github.com/djoman-lab/statistical-models) | Modèles R et notebooks Jupyter | R, Jupyter |
 | [**Data Visualization Tools**](https://github.com/djoman-lab/data-visualization-tools) | Outils web interactifs pour données biologiques | JS, Plotly |
@@ -59,7 +59,7 @@ l’analyse de données biologiques et la conception d’outils bio-informatique
 
 <pre>
 djoman-lab/
-├── <a href="https://github.com/djoman-lab/portfolio">portfolio/</a>                → Site professionnel (Vite.js)
+├── <a href="https://github.com/djoman-lab/portfolio">portfolio/</a>                → Site professionnel (JavaScript)
 ├── <a href="https://github.com/djoman-lab/bioinformatics-pipelines">bioinformatics-pipelines/</a> → Scripts R / Python pour analyses omiques
 ├── <a href="https://github.com/djoman-lab/statistical-models">statistical-models/</a>       → Modèles R & Python pour biostatistique
 ├── <a href="https://github.com/djoman-lab/data-visualization-tools">data-visualization-tools/</a> → Dashboards & visualisations
