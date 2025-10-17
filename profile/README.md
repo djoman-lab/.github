@@ -30,7 +30,7 @@ l’analyse de données biologiques et la conception d’outils bio-informatique
 
 | 🌐 Développement | 🧮 Biostatistique | 🧬 Bio-informatique | 📊 Data Visualization |
 |------------------|------------------|--------------------|-----------------------|
-| Java · Spring Boot · Angular · Vite.js | R · Python · Modèles mixtes | R · Bioconductor · Pandas | Plotly · D3.js · Shiny |
+| Java · Spring Boot · Angular · JavaScript | R · Python · Modèles mixtes | R · Bioconductor · Pandas | Plotly · D3.js · Shiny |
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white" />
