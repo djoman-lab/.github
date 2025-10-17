@@ -86,7 +86,7 @@ djoman-lab/
 🌐 [djoman-lab.github.io/portfolio](https://djoman-lab.github.io/portfolio)
 
 <p align="center">
-  <a href="https://linkedin.com/in/romeo-djoman"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/romeodjoman"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/djoman-lab"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
 </p>
 
